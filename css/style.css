@@ -1,4 +1,8 @@
-                 /* Header */
+
+ * {
+    font-size: 24px;
+ }
+                     /* Header */
 header {
     background-image: url(../img/pattern.png);
     background-size: repeat;
@@ -23,8 +27,11 @@ h1 {
 #date {
     font-size: 20px;
 }
-span {
+#blu-text {
     color: rgb(39, 169, 227);
+}
+figcaption {
+    font-size: 18px;
 }
 
 .img-container {
@@ -32,3 +39,8 @@ span {
     height: 550px;
 }
 
+                 /* seconda section */
+                
+.yellow-text {
+    background-color: yellow;
+}
