@@ -1,0 +1,34 @@
+                 /* Header */
+header {
+    background-image: url(../img/pattern.png);
+    background-size: repeat;
+    background-color: rgb(75, 160, 252);
+    height: 200px;
+}
+.logo {
+    max-width: 20%;
+    margin: 100px 0 0 20px;
+
+}
+               /* Main  */
+h1 {
+    font-size: 70px;
+    margin: 5px;
+}
+.gray-text {
+    color: gray;
+    font-size: 30px;
+    margin: 5px;
+}
+#date {
+    font-size: 20px;
+}
+span {
+    color: rgb(39, 169, 227);
+}
+
+.img-container {
+    width: 100%;
+    height: 550px;
+}
+
