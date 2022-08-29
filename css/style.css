@@ -29,6 +29,7 @@ h1 {
 }
 #blu-text {
     color: rgb(39, 169, 227);
+    font-size: 30px;
 }
 figcaption {
     font-size: 18px;
@@ -43,4 +44,23 @@ figcaption {
                 
 .yellow-text {
     background-color: yellow;
+}
+
+              /* footer section */
+
+.foot-pic {
+    height:  350px;
+    width: 500px;
+    background-size: cover;
+    font-size: 50px;
+    color: white;
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+#footer-bg-1 {
+    background-image: url(../img/monitor.jpg);
+}
+#footer-bg-2 {
+    background-image: url(../img/graph.jpg);
 }
